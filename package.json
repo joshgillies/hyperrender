@@ -1,0 +1,18 @@
+{
+  "name": "hyperrender",
+  "version": "1.0.0",
+  "description": "Universal render helper for hyperHTML",
+  "main": "index.js",
+  "repository": "git@github.com:joshgillies/hyperrender.git",
+  "author": "Josh Gillies <github@josh.gl>",
+  "license": "MIT",
+  "scripts": {
+    "test": "standard"
+  },
+  "dependencies": {
+    "viperhtml": "^0.5.1"
+  },
+  "devDependencies": {
+    "standard": "^10.0.1"
+  }
+}
