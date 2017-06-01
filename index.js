@@ -1,4 +1,4 @@
-const hyperHTML = require('viperhtml')
+var hyperHTML = require('viperhtml')
 
 function createWire (obj, type) {
   var self = this
