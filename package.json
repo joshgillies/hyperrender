@@ -10,7 +10,7 @@
     "test": "standard"
   },
   "dependencies": {
-    "viperhtml": "^0.5.1"
+    "viperhtml": "^0.6.0"
   },
   "devDependencies": {
     "standard": "^10.0.1"
