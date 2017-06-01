@@ -6,6 +6,9 @@
   "repository": "git@github.com:joshgillies/hyperrender.git",
   "author": "Josh Gillies <github@josh.gl>",
   "license": "MIT",
+  "browser": {
+    "viperhtml": "hyperhtml"
+  },
   "scripts": {
     "test": "standard"
   },
