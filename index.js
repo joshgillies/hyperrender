@@ -10,7 +10,7 @@ function createWire (obj, type) {
 function html (obj) {
   return (arguments.length > 1 || (obj && obj.raw))
     ? hyperHTML.wire(this).apply(hyperHTML, arguments)
-    : createWire.call(this, obj)
+    : createWire.call(this, obj, 'html')
 }
 
 function svg (obj) {
